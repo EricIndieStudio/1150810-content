@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-10T09:30:00Z",
+  "updatedAt": "2026-08-10T15:00:00Z",
   "posts": [
     {
       "id": "1",
       "sourceLink": "https://www.instagram.com/reel/DbvCpKcTaW4/",
       "restaurantName": "隱藏版蛋黃酥",
       "region": "中壢",
-      "badge": "最新",
+      "badge": null,
       "title": null,
       "description": "中壢隱藏版超好吃蛋黃酥"
     },
