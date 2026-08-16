@@ -39,7 +39,8 @@
         {
           "name": "花語烘焙工坊 湖口老街門市",
           "latitude": 24.8769116,
-          "longitude": 121.0571658
+          "longitude": 121.0571658,
+          "searchQuery": "花語烘焙工坊"
         }
       ]
     },
@@ -55,7 +56,8 @@
         {
           "name": "食功夫-南崁店",
           "latitude": 25.0470649,
-          "longitude": 121.2945524
+          "longitude": 121.2945524,
+          "searchQuery": "食功夫"
         },
         {
           "name": "食功夫-長庚店",
