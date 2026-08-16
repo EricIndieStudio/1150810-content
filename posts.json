@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-08-17T10:00:00Z",
+  "updatedAt": "2026-08-17T14:00:00Z",
   "posts": [
+    {
+      "id": "43",
+      "sourceLink": "https://www.instagram.com/reel/DcDvm38TYT0/",
+      "restaurantName": "W.M Curry 咖哩專賣店",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "💖隱藏中壢巷弄 高CP值咖哩飯\n如果喜歡我的分享 歡迎追蹤 @jin_food26\n祝你大吉大利 身體健康 財富自由😆\n-\n隱藏中壢巷弄 CP值高又好吃的咖哩😍\n這邊的白飯、三樣小菜、味噌湯\n都可以免費續！！！\n生日提前訂位 還直接送整顆巴斯克😋\n咖哩口味共有四種（甘口、紅醬、辛辣、厚黑）\n我個人最常點黑咖哩～\n咖哩非常濃郁 尾韻有微微的巧克力香\n再搭配肉汁超多的漢堡排\n跟半熟蛋真的超級爽🤤\n炸豬排也好吃 外脆內嫩\n不想吃飯的話很推薦點他們的烤餅\n搭配咖哩醬也很好吃！\n飲料跟甜點也非常用心\n芒果控一定要試試芒果奶昔\n真的很濃 很真材實料🥹\n這間內用座位不多 大家想吃要記得先訂位喔\n-\n🏠店名：W.M Curry 咖哩專賣店\n📍地址：桃園市中壢區龍江路52號\n🕐營業時間：11:00-14:00，16:30-20:00 (週三公休)",
+      "locations": [
+        {
+          "name": "W.M Curry 咖哩專賣店",
+          "latitude": 24.931902,
+          "longitude": 121.2570572
+        }
+      ]
+    },
     {
       "id": "1",
       "sourceLink": "https://www.instagram.com/reel/Db-uO1TzOCF/",
