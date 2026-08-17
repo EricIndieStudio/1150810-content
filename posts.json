@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T03:00:00Z",
+  "updatedAt": "2026-08-18T04:00:00Z",
   "posts": [
     {
       "id": "43",
@@ -2015,6 +2015,139 @@
           "name": "舞之椒",
           "latitude": 25.0537579,
           "longitude": 121.3670281
+        }
+      ]
+    },
+    {
+      "id": "119",
+      "sourceLink": "https://www.instagram.com/p/DOduSgOE2g0/",
+      "restaurantName": "石田一龍 拉麵-台灣初號店",
+      "region": "桃園",
+      "badge": null,
+      "title": null,
+      "description": "來自福岡、曾六度蟬聯九州拉麵錦標賽冠軍的拉麵店，桃園店是海外唯一分店，店員多為日本人，氛圍道地。招牌濃厚豚骨味玉拉麵桌桌必點，湯頭熬煮數小時濃郁醇厚，配Q彈細麵及炙燒叉燒；敢吃辣可點極辛版本，也推薦鍋氣十足的中華炒飯。生意很好，建議提早前往。",
+      "locations": [
+        {
+          "name": "石田一龍 拉麵-台灣初號店",
+          "latitude": 25.0113754,
+          "longitude": 121.2942232
+        }
+      ]
+    },
+    {
+      "id": "120",
+      "sourceLink": "https://www.instagram.com/p/DOYcSqtE5wT/",
+      "restaurantName": "赤山炭火牛排屋",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "中原夜市附近新開的日式炭烤牛排，是「和也串燒」推出的新品牌，營業到凌晨12點。肉排炭火現點現烤，飲料及濃湯無限暢飲，排餐附爆漿奶油餐包，配料選擇多元（蒜片、墨西哥辣椒、梅子蕃茄、哇沙比等，隨季節調整）。推薦肉香十足的老饕板腱、清爽的牛排沙拉及金黃酥脆的起司雞腿排。",
+      "locations": [
+        {
+          "name": "赤山炭火牛排屋",
+          "latitude": 24.9564524,
+          "longitude": 121.2379222
+        }
+      ]
+    },
+    {
+      "id": "121",
+      "sourceLink": "https://www.instagram.com/p/DOOA7T5EwK9/",
+      "restaurantName": "肉咖先生",
+      "region": "平鎮",
+      "badge": null,
+      "title": null,
+      "description": "中壢後站附近的浮誇炸豬排專賣店，生意極好、座位偏少，建議提早前往。豬排現點現炸、麵衣金黃酥脆不油膩，招牌是超厚的厚炸腰內系列，肉質軟嫩不乾柴。推薦炸豬排三明治，不吃豬肉可選炸牛肉漢堡排丼飯，搭配松露起司醬很對味。餐點份量十足、價格不貴。",
+      "locations": [
+        {
+          "name": "肉咖先生",
+          "latitude": 24.949287,
+          "longitude": 121.222704
+        }
+      ]
+    },
+    {
+      "id": "122",
+      "sourceLink": "https://www.instagram.com/p/DOLh158E4vz/",
+      "restaurantName": "食知味台式熱炒",
+      "region": "桃園",
+      "badge": null,
+      "title": null,
+      "description": "桃園少見營業到凌晨兩點的平價熱炒店，白飯無限吃到飽，連平日都大客滿。招牌文昌雞需提前預約，肉質軟嫩連雞胸都不乾柴；糖醋排骨、三杯中卷、蔥爆牛柳、蒜苗松阪豬都很下飯，泰式中卷酸辣開胃，剝皮辣椒雞湯料多湯頭濃郁。份量大、價格平價，是值得回訪的愛店。",
+      "locations": [
+        {
+          "name": "食知味台式熱炒",
+          "latitude": 24.9748097,
+          "longitude": 121.3237971
+        }
+      ]
+    },
+    {
+      "id": "123",
+      "sourceLink": "https://www.instagram.com/p/DN78hDjkxFL/",
+      "restaurantName": "原頁鍋物",
+      "region": "桃園",
+      "badge": null,
+      "title": null,
+      "description": "桃園新開的專人代煮鍋物，全程桌邊服務，套餐含前菜、菜盤、主食、副食、飲料、甜點，適合約會慶生。肉品現切、推薦美國頂級肋眼與伊比利梅花豬，海鮮為現撈活體、店員貼心去殼；甜點是宜蘭同款白水豆花及手工冰淇淋。店內大面落地窗，白天晚上氛圍不同，座位不多需訂位。",
+      "locations": [
+        {
+          "name": "原頁鍋物",
+          "latitude": 24.9998208,
+          "longitude": 121.2904857
+        }
+      ]
+    },
+    {
+      "id": "124",
+      "sourceLink": "https://www.instagram.com/p/DN5fXwlkzau/",
+      "restaurantName": "SoGeum vip",
+      "region": "桃園",
+      "badge": null,
+      "title": null,
+      "description": "桃園高端韓式燒肉吃到飽，一天限接兩組客人（早晚各一），有獨立包廂、專人全程代烤，用餐時間不限。肉品桌邊現切，推薦A5和牛、牛小排、牛舌、松阪豬、松葉蟹腳；韓式炸雞、石鍋拌飯、辣炒年糕、泡菜湯等多種韓式料理無限供應，老火頂湯濃郁好喝。當月壽星預約送6吋蛋糕。價格$1488+10%/人，4-8人成行，僅接受電話訂位。",
+      "locations": [
+        {
+          "name": "SoGeum vip",
+          "latitude": 25.0159518,
+          "longitude": 121.3006118
+        }
+      ]
+    },
+    {
+      "id": "125",
+      "sourceLink": "https://www.instagram.com/p/DN25NmeZtfV/",
+      "restaurantName": "Thai Wonderful 蒔泰 大興店",
+      "region": "桃園",
+      "badge": null,
+      "title": null,
+      "description": "桃園人氣平價泰式料理開了林口分店，用餐空間寬敞、共三層樓有電梯，適合家人朋友聚餐，生意好建議先訂位。招牌厚切月亮蝦餅每口都吃得到蝦肉，泰式炸雞蛋清爽開胃，海鮮酸辣湯料多湯頭濃郁，泰式打拋豬飯配半熟蛋、泰式海鮮MAMA麵都很推薦，甜點芒果冰沙、香蕉煎餅也很有誠意。",
+      "locations": [
+        {
+          "name": "Thai Wonderful 蒔泰 大興店",
+          "latitude": 25.016171,
+          "longitude": 121.315691
+        },
+        {
+          "name": "Thai Wonderful 蒔泰 林口店",
+          "latitude": 25.0758533,
+          "longitude": 121.385446
+        }
+      ]
+    },
+    {
+      "id": "126",
+      "sourceLink": "https://www.instagram.com/p/DNp10HtT_z0/",
+      "restaurantName": "鐵炭魂創意料理工作室",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "中壢徒步區巷弄裡的人氣創意小餐館，在地經營多年、座位偏少建議先訂位。招牌紅牛握壽司炙燒過香氣更濃、一次六種口味；石鍋粥鋪滿燒肉加起司及生蛋黃，綿密濃厚；串燒可選水果蜜汁或藥膳辣刷醬，明太子玉子燒起司給得大方，黑板不定期推出隱藏限定菜色如明太子烤小卷。",
+      "locations": [
+        {
+          "name": "鐵炭魂創意料理工作室",
+          "latitude": 24.9583013,
+          "longitude": 121.2234537
         }
       ]
     }
