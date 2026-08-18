@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T04:00:00Z",
+  "updatedAt": "2026-08-18T05:00:00Z",
   "posts": [
     {
       "id": "43",
@@ -2148,6 +2148,139 @@
           "name": "鐵炭魂創意料理工作室",
           "latitude": 24.9583013,
           "longitude": 121.2234537
+        }
+      ]
+    },
+    {
+      "id": "127",
+      "sourceLink": "https://www.instagram.com/p/DNVjnTezY55/",
+      "restaurantName": "CheeseCake1",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "藏身中壢工業區大樓內的人氣乳酪蛋糕店，位置隱密、包裝精美有儀式感，主打食材原味不加色素香精，需提前預定才能取貨或宅配。招牌藍莓乳酪鋪滿大顆藍莓，蛋糕體輕盈帶Q感，也有雙拼、四拼組合可選，適合當生日蛋糕。",
+      "locations": [
+        {
+          "name": "CheeseCake1",
+          "latitude": 24.9731791,
+          "longitude": 121.2365626
+        }
+      ]
+    },
+    {
+      "id": "128",
+      "sourceLink": "https://www.instagram.com/p/DNN07Hmzkt9/",
+      "restaurantName": "青亭點水",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "青埔IKEA附近新開幕的港式點心餐廳，港點皆店家自製、種類豐富，生意好平日也大客滿，建議先訂位。推薦現點現做的鮮蝦仁腸粉、招牌蘿蔔絲酥餅（外皮酥脆不油膩），鮮蝦腐皮卷、奶油烤白菜、豉汁排骨、鳳爪也都推薦；主食瑞士雞翼撈丁雞翅軟嫩、麵條Q彈，蜜汁叉燒飯份量給得大方。",
+      "locations": [
+        {
+          "name": "青亭點水",
+          "latitude": 25.0118328,
+          "longitude": 121.2205966
+        }
+      ]
+    },
+    {
+      "id": "129",
+      "sourceLink": "https://www.instagram.com/p/DNLJE06Tyyy/",
+      "restaurantName": "鍋泰暖 桃園中壢店",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "中原大學附近特色泰式火鍋，靈魂泰式酸辣醬沾菜沾肉拌麵都好吃。不吃肉最低$298就有自助吧吃到飽，蔬菜、火鍋料、麵食、麻辣鴨血、蝦餅及飲料冰淇淋都無限供應。湯頭有肉骨茶（清甜帶胡椒香）、綠咖哩（微辣濃郁配王子麵）等特色選擇，大推秘製嫩雞柳裹蛋液沾酸辣醬；南洋炸物必點爆漿蝦球、椰汁流心球，甜點有咖椰吐司及自助DIY冰淇淋。",
+      "locations": [
+        {
+          "name": "鍋泰暖 桃園中壢店",
+          "latitude": 24.9551311,
+          "longitude": 121.2361104
+        }
+      ]
+    },
+    {
+      "id": "130",
+      "sourceLink": "https://www.instagram.com/p/DNA3qLszmpP/",
+      "restaurantName": "落兒逅叻谷 Lorholigu",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "中壢威尼斯附近的特色健康早午餐，菜單清楚標示熱量、蛋白質、脂肪，適合減脂健身族，醬料皆店家自製。招牌鮮蝦豆皮蛋餅用豆皮取代蛋餅皮、外皮煎得恰恰配新鮮蝦仁；食量大可點六格寶飽餐（含櫛瓜麵、原型肉類等六格營養均衡小品），也推薦蔬菜豆皮捲、起司烤奶及用豆腐蔬菜雞胸拌炒的肌肉豆蔬米，高蛋白飲品選擇也多。位置在中壢SOGO附近。",
+      "locations": [
+        {
+          "name": "落兒逅叻谷 Lorholigu",
+          "latitude": 24.9618919,
+          "longitude": 121.2247772
+        }
+      ]
+    },
+    {
+      "id": "131",
+      "sourceLink": "https://www.instagram.com/p/DM7qicITsYx/",
+      "restaurantName": "東東石頭火鍋",
+      "region": "大園",
+      "badge": null,
+      "title": null,
+      "description": "青埔的桌邊爆炒石頭火鍋，食材種類近百種、新鮮豐富，不少品項少見，單點最便宜$40起，營業到凌晨。店員會在桌邊爆炒乾魷魚及辛香料再半熟肉片，湯頭香氣濃郁。推薦芋頭貢丸、手工蝦滑、三記魚餃、蛤蜊等配料，及會吸附湯汁的歐姆蛋和豆皮，肉品推薦有厚度的牛小排，最後可點牛奶霜淇淋收尾，適合聚餐，生意好週末建議先訂位。",
+      "locations": [
+        {
+          "name": "東東石頭火鍋",
+          "latitude": 25.0065363,
+          "longitude": 121.2134267
+        }
+      ]
+    },
+    {
+      "id": "132",
+      "sourceLink": "https://www.instagram.com/p/DMxYG4nTgMQ/",
+      "restaurantName": "KZ TOAST BRUNCH & DINING",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "中壢威尼斯小巷子裡的溫馨小店，原先是餐車起家、後來開設店面，餐點由老闆一人現點現做，需稍微耐心等候。推薦奶香濃郁的鮮蝦黃金起司義大利麵，及用布里歐麵包夾濃郁松露醬、野菇蔬菜與厚實漢堡排的松露起司牛肉堡；想吃甜的可選阿華田可可圓吐司。",
+      "locations": [
+        {
+          "name": "KZ TOAST BRUNCH & DINING",
+          "latitude": 24.960783,
+          "longitude": 121.224277
+        }
+      ]
+    },
+    {
+      "id": "133",
+      "sourceLink": "https://www.instagram.com/p/DMh9oMzTvqK/",
+      "restaurantName": "夜更かしBAR",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "青埔的鐵板餐酒館，位置隱密（在社區大樓正後方），近期推出週日至週四晚上22:00後才販售的深夜限定隱藏版丼飯兩款。月見和牛漢堡排丼飯用厚實手打漢堡排搭自製蔥鹽及炸蛋黃、底部是炊飯而非白飯；燒肉飯牛肉煎至恰恰再用特調醬汁燜煮，鹹甜夠味。丼飯附兩樣小菜，整組$360，也可加購酒精飲品。",
+      "locations": [
+        {
+          "name": "夜更かしBAR",
+          "latitude": 25.0147753,
+          "longitude": 121.2183778
+        }
+      ]
+    },
+    {
+      "id": "134",
+      "sourceLink": "https://www.instagram.com/p/DMfWRuiTHL8/",
+      "restaurantName": "冒大仙冒菜麻辣燙-桃園八德店",
+      "region": "八德",
+      "badge": null,
+      "title": null,
+      "description": "八德新開的冒菜麻辣燙，可選店家配好套餐或自助夾取，無低消、秤重計價（每公克$0.5）。品項豐富，推薦寬粉、毛肚絲、貢菜、蓮藕及招牌冒牛，共五種湯頭口味，嗜辣可選最辣的冒菜紅油，經典麻辣燙加芝麻醬湯頭更溫潤，乾拌則推薦藤椒香麻。桃園目前有兩間分店，也有不辣的豚骨口味。",
+      "locations": [
+        {
+          "name": "冒大仙冒菜麻辣燙-桃園八德店",
+          "latitude": 24.958138,
+          "longitude": 121.2994631
+        },
+        {
+          "name": "冒大仙冒菜麻辣燙-桃園中正店",
+          "latitude": 25.0052591,
+          "longitude": 121.3045224
         }
       ]
     }
