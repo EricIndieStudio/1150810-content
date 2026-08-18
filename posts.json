@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T09:00:00Z",
+  "updatedAt": "2026-08-18T10:00:00Z",
   "posts": [
     {
       "id": "43",
@@ -2821,6 +2821,134 @@
           "name": "鰻天下",
           "latitude": 25.114293,
           "longitude": 121.243427
+        }
+      ]
+    },
+    {
+      "id": "165",
+      "sourceLink": "https://www.instagram.com/reel/DGA5kODTHKX/",
+      "restaurantName": "從心 From the heart Bistronomie",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "隱身內壢民宅的義大利麵餐廳，用料實在、環境溫馨，座位不多週末建議先訂位。曾推出情人節雙人套餐(前菜/沙拉/湯品/主餐/甜點/飲料各2份)，前菜炸牡蠣飽滿多汁，燻鮭魚水果沙拉清爽開胃，招牌明太子奶油義大利麵放4顆大干貝淋鮭魚卵、麵體吸附滿滿醬汁，墨魚燉飯海鮮給得大方，甜點提拉米蘇跟草莓千層都推薦。",
+      "locations": [
+        {
+          "name": "從心 From the heart Bistronomie",
+          "latitude": 24.9632913,
+          "longitude": 121.2546343
+        }
+      ]
+    },
+    {
+      "id": "166",
+      "sourceLink": "https://www.instagram.com/reel/DFu4dN8zJtp/",
+      "restaurantName": "HAKKAFE'哈嘎廢",
+      "region": "平鎮",
+      "badge": null,
+      "title": null,
+      "description": "平鎮老宅咖啡廳，環境美、室內外座位皆有特色，天氣好推薦坐戶外大片草皮，餐點顏值高又好吃。招牌咖哩桔醬串燒梅花豬飯肉串烤得入味、乾咖哩濃郁；黃金豬排佐乾咖哩可頌用酥脆可頌夾大塊豬排淋乾咖哩醬，附地瓜片水果優格；甜點鬆餅份量大，奶蓋布朗尼冰淇淋鬆餅配料給得豐富。",
+      "locations": [
+        {
+          "name": "HAKKAFE'哈嘎廢",
+          "latitude": 24.8965345,
+          "longitude": 121.2258406
+        }
+      ]
+    },
+    {
+      "id": "167",
+      "sourceLink": "https://www.instagram.com/reel/DE7Lsv6TvoI/",
+      "restaurantName": "貳串燒殿",
+      "region": "桃園",
+      "badge": null,
+      "title": null,
+      "description": "桃園平價串燒店，最低$25起、都是大一串，連平日都人潮滿滿，建議先訂位。烤功穩定、串燒炸物主食共70幾種品項，炸物推薦鮮嫩多汁的麻香鹽酥雞，蔬菜類推薦櫛瓜跟四季豆多汁，餐點下方設有保溫烤爐不怕涼掉，湯品推薦蒜頭蛤蜊雞湯可加點喜歡的配料。也提供包場服務。",
+      "locations": [
+        {
+          "name": "貳串燒殿",
+          "latitude": 25.0117899,
+          "longitude": 121.319274
+        }
+      ]
+    },
+    {
+      "id": "168",
+      "sourceLink": "https://www.instagram.com/reel/DEUrufnTUo5/",
+      "restaurantName": "金湛羊肉",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "中壢高CP值羊肉爐吃到飽，兩人以上用餐每人$600、不收服務費，羊排肉、羊大骨、羊腳筋、羊里肌等多部位任你吃，湯頭紅燒口味鮮甜好喝，肉片區牛羊豬雞四種一次滿足。自助吧40幾種新鮮蔬菜火鍋料可自取，熟食區爆漿餐包跟滷肉飯也吃到飽，推薦加點羊油麵線，甜點冰棒選擇多。生意好建議先訂位。",
+      "locations": [
+        {
+          "name": "金湛羊肉",
+          "latitude": 24.9630552,
+          "longitude": 121.2086939
+        }
+      ]
+    },
+    {
+      "id": "169",
+      "sourceLink": "https://www.instagram.com/reel/DEFHiUITkYJ/",
+      "restaurantName": "開鍋 open pot 桃園經國店",
+      "region": "桃園",
+      "badge": null,
+      "title": null,
+      "description": "桃園平價特色小火鍋，最低$170就有滷肉飯、王子麵、冬粉跟十幾種飲料及霜淇淋吃到飽。湯頭有20幾種可選、真材實料，較少見口味如香根皮蛋、金沙牛奶、魷魚螺肉蒜都推薦，香根皮蛋鍋湯頭清甜好喝，金沙牛奶鍋用炒過的鹹蛋配牛奶香濃。肉品推薦花雕雞(雞腿肉用花雕酒醃製軟嫩入味)，花枝漿也很搶手。",
+      "locations": [
+        {
+          "name": "開鍋 open pot 桃園經國店",
+          "latitude": 25.018216,
+          "longitude": 121.305113
+        }
+      ]
+    },
+    {
+      "id": "170",
+      "sourceLink": "https://www.instagram.com/reel/DD_OyTXz8iy/",
+      "restaurantName": "熾焰美式炭烤牛排",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "中央大學附近人氣美式炭烤牛排，一營業就大排長龍，建議早點去，半戶外空間有冷暖氣。餐點現點現烤，招牌老饕板腱軟嫩多汁配蒜片，肉控可點21oz肩胛牛排份量大有厚度，排餐附飲料跟玉米濃湯喝到飽，也可加點爆漿奶油餐包跟炸物。",
+      "locations": [
+        {
+          "name": "熾焰美式炭烤牛排",
+          "latitude": 24.9630579,
+          "longitude": 121.2012531
+        }
+      ]
+    },
+    {
+      "id": "171",
+      "sourceLink": "https://www.instagram.com/reel/DDrfNYtzKLm/",
+      "restaurantName": "阿剎利居酒屋",
+      "region": "桃園",
+      "badge": null,
+      "title": null,
+      "description": "桃園低調高評價(Google 5.0)居酒屋，招牌美式壽司卷口味豐富、隨便點都不踩雷，推薦龍蝦卷(放兩隻完整龍蝦配炙燒起司醬)；生牛肉沙拉配蛋黃更滑嫩，中卷新鮮、明太子給得大方，串燒炭火燒烤碳香十足，推薦蒜子牛五花(包整顆蒜頭)。平日有擲筊活動：連續3個聖筊折$100、5個九折、7個送龍蝦。",
+      "locations": [
+        {
+          "name": "阿剎利居酒屋",
+          "latitude": 25.0055907,
+          "longitude": 121.3020145
+        }
+      ]
+    },
+    {
+      "id": "172",
+      "sourceLink": "https://www.instagram.com/reel/DDmbNK3TR04/",
+      "restaurantName": "千焠 黑毛和牛燒肉專門店",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "中壢小巷弄裡低調的和牛燒肉店，有套餐跟單點，全程專人代烤。前菜和牛握壽司跟日本青甘推薦，肉品夏多布里昂表面烤至焦脆、內裡粉嫩軟嫩，牛舌熟度掌控精準，和牛薄燒配生蛋黃口感濃郁滑順，貝身肉軟嫩多汁；和牛炒飯跟牛肉湯也意外推薦。餐點可依個人習慣調整厚度份量，目前不難訂位。",
+      "locations": [
+        {
+          "name": "千焠 黑毛和牛燒肉專門店",
+          "latitude": 24.9588164,
+          "longitude": 121.2206249
         }
       ]
     }
