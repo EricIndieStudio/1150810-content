@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T05:00:00Z",
+  "updatedAt": "2026-08-18T06:00:00Z",
   "posts": [
     {
       "id": "43",
@@ -2281,6 +2281,123 @@
           "name": "冒大仙冒菜麻辣燙-桃園中正店",
           "latitude": 25.0052591,
           "longitude": 121.3045224
+        }
+      ]
+    },
+    {
+      "id": "135",
+      "sourceLink": "https://www.instagram.com/reel/DMXqxmozDDM/",
+      "restaurantName": "晨司",
+      "region": "桃園",
+      "badge": null,
+      "title": null,
+      "description": "桃園隱藏版早餐店，爆餡貝果內餡給得大方，Q彈貝果搭配濃郁內餡，招牌口味有藍莓乳酪、開心果乳酪。豆皮蛋餅豆皮煎得恰恰，加滿滿起司跟鮮嫩雞胸肉，用料實在。",
+      "locations": [
+        {
+          "name": "晨司",
+          "latitude": 25.0121199,
+          "longitude": 121.2956875
+        }
+      ]
+    },
+    {
+      "id": "136",
+      "sourceLink": "https://www.instagram.com/reel/DMPn9SMxFzo/",
+      "restaurantName": "樂樂燒肉",
+      "region": "桃園",
+      "badge": null,
+      "title": null,
+      "description": "桃園高CP值和牛燒肉吃到飽，日本A5山形和牛、龍蝦、生啤調酒、哈根達斯都吃到飽，最便宜$899起，任一價位皆附火鍋、飲料暢飲，可換口味不會烤肉吃膩。共6種價位方案(899-2999)，招牌月見和牛搭生蛋黃升級口感，韓式豬小排軟嫩入味，海鮮新鮮度也夠。",
+      "locations": [
+        {
+          "name": "樂樂燒肉",
+          "latitude": 24.9979109,
+          "longitude": 121.3088797
+        }
+      ]
+    },
+    {
+      "id": "137",
+      "sourceLink": "https://www.instagram.com/reel/DL9qJnwz1c3/",
+      "restaurantName": "Restaurant BREVA 布浬法餐廳",
+      "region": "龜山",
+      "badge": null,
+      "title": null,
+      "description": "林口長庚附近的深盤披薩，主廚是美國芝加哥人、曾在美國五星級及米其林餐廳工作，披薩跟義大利麵都手工自製，用餐空間寬敞適合聚餐。招牌5公分厚深盤披薩外皮酥脆、內餡爆量起司；也推薦少見的油炸餅皮美墨披薩、紅酒燉牛肉鳥巢麵、松露野菇燉飯，以及意外好吃的野獸漢堡(布里歐麵包配雙層肉排)。",
+      "locations": [
+        {
+          "name": "Restaurant BREVA 布浬法餐廳",
+          "latitude": 25.0580928,
+          "longitude": 121.3673128
+        }
+      ]
+    },
+    {
+      "id": "138",
+      "sourceLink": "https://www.instagram.com/reel/DL4xVDizy46/",
+      "restaurantName": "謀魚蝦也蠔林口店",
+      "region": "龜山",
+      "badge": null,
+      "title": null,
+      "description": "林口長庚附近新開的海鮮火鍋，種類豐富、食材新鮮、份量大適合聚餐，也吃得到熱炒、生魚片、生蠔，內用白飯冰淇淋吃到飽。當日壽星提前預約送生魚片蛋糕或生食摩天輪。招牌海鮮痛風鍋(需預訂)份量驚人，一次吃到干貝、鮑魚、生蠔、蛤蜊、扇貝、黑虎蝦、整隻魷魚等，生蠔肥美尺寸多種，湯頭麻辣下飯。",
+      "locations": [
+        {
+          "name": "謀魚蝦也蠔林口店",
+          "latitude": 25.0601392,
+          "longitude": 121.3645986
+        }
+      ]
+    },
+    {
+      "id": "139",
+      "sourceLink": "https://www.instagram.com/reel/DLrwneeTViE/",
+      "restaurantName": "樸食鍋物",
+      "region": "大園",
+      "badge": null,
+      "title": null,
+      "description": "青埔美型火鍋店，適合約會，落地窗採光佳、座位寬敞舒適質感高。套餐附小菜、菜盤、副食、甜點、飲料，自助區果醋無限供應。招牌海鮮總動員一次吃到9種新鮮海鮮，手工蝦仁花枝漿真材實料，肉品常點霜降雪花牛，軟嫩不油膩。",
+      "locations": [
+        {
+          "name": "樸食鍋物",
+          "latitude": 25.0228198,
+          "longitude": 121.2170112
+        }
+      ]
+    },
+    {
+      "id": "140",
+      "sourceLink": "https://www.instagram.com/reel/DLl4o2mzTtV/",
+      "restaurantName": "NONPOKE 夏威夷生魚飯海華店",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "中壢SOGO附近的平價夏威夷拌飯，食材新鮮選擇多，最便宜$109起，內用雞湯無限喝到飽，可自選配料或點店家搭配好的組合。招牌夏威夷poke用新鮮鮭魚鮪魚配松露美乃滋，不吃生食可選牛牛蝦蝦poke(壽喜牛軟嫩、蝦已去殼)，醬料推薦墨西哥莎莎醬跟辣美乃滋。",
+      "locations": [
+        {
+          "name": "NONPOKE 夏威夷生魚飯海華店",
+          "latitude": 24.9637154,
+          "longitude": 121.2238801
+        },
+        {
+          "name": "NONPOKE 夏威夷生魚飯桃園店",
+          "latitude": 24.9907482,
+          "longitude": 121.3099509
+        }
+      ]
+    },
+    {
+      "id": "141",
+      "sourceLink": "https://www.instagram.com/reel/DLhO2w0TnU7/",
+      "restaurantName": "双囍堂",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "中壢夜市炙燒黑糖珍珠鮮奶專賣，配料每日手工現做，老闆講究真材實料。經典口味有地瓜、芋頭、珍珠，夏季新推出黑糖水果鮮奶(草莓/芒果/香蕉/榴槤四種口味)，都用新鮮水果製作，上層鋪奶蓋灑黑糖粉、炙燒後香氣更濃郁，芒果口味香氣濃郁最受推薦。",
+      "locations": [
+        {
+          "name": "双囍堂",
+          "latitude": 24.9606363,
+          "longitude": 121.215184
         }
       ]
     }
