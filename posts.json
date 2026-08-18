@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T06:00:00Z",
+  "updatedAt": "2026-08-18T07:00:00Z",
   "posts": [
     {
       "id": "43",
@@ -2398,6 +2398,154 @@
           "name": "双囍堂",
           "latitude": 24.9606363,
           "longitude": 121.215184
+        }
+      ]
+    },
+    {
+      "id": "142",
+      "sourceLink": "https://www.instagram.com/reel/DLXP2HVTUWl/",
+      "restaurantName": "七股•鮮。滷肉飯虱目魚料理專賣店 (平鎮南豐店)",
+      "region": "平鎮",
+      "badge": null,
+      "title": null,
+      "description": "正宗台南虱目魚滷肉飯來桃園平鎮開北部目前唯一分店。招牌海產系列一次吃到七種海鮮、湯頭鮮甜，滷肉是南部偏甜口味、帶膠質入口即化，推薦蚵仔滷肉飯(蚵仔大顆飽滿)及料多到看不見飯的蛤蜊粥，小菜推薦鹽蒸魚頭跟Q彈澎湖小卷。",
+      "locations": [
+        {
+          "name": "七股•鮮。滷肉飯虱目魚料理專賣店 (平鎮南豐店)",
+          "latitude": 24.899944,
+          "longitude": 121.207595
+        }
+      ]
+    },
+    {
+      "id": "143",
+      "sourceLink": "https://www.instagram.com/reel/DLHpWXgzTAH/",
+      "restaurantName": "拾午 gatherdelicious",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "中壢威尼斯附近高人氣復古老宅咖啡廳，平假日生意都好、建議先訂位，鹹食甜點都有水準。招牌西多士外皮酥脆、灑花生粉配濃郁花生餡，還可加花生醬；提拉米蘇跟芋泥巴斯克也是店內招牌。鹹食推薦酪梨鮮蝦早午餐拼盤(附炒野菇、炒蛋、生菜、優格杯)，或香氣濃郁的炸蝦松露炊飯。",
+      "locations": [
+        {
+          "name": "拾午 gatherdelicious",
+          "latitude": 24.960985,
+          "longitude": 121.224803
+        }
+      ]
+    },
+    {
+      "id": "144",
+      "sourceLink": "https://www.instagram.com/reel/DLCpkBETpKa/",
+      "restaurantName": "伙串滿酒場",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "中壢光南附近新開的高評價日式居酒屋，Google評價5.0且無打卡活動加成，座位分一二樓、旁邊有停車場。主打串燒但也推薦份量大的麻辣臭豆腐(會越吃越上癮)，串燒炭火燒烤、可選台式醬烤/日式醬烤/鹽烤/大漠香辣調味，下酒菜推薦酒鬼椒麻肉，甜點手工焦糖烤布蕾很受好評。",
+      "locations": [
+        {
+          "name": "伙串滿酒場",
+          "latitude": 24.9555683,
+          "longitude": 121.2264978
+        }
+      ]
+    },
+    {
+      "id": "145",
+      "sourceLink": "https://www.instagram.com/reel/DKzPUIezUkF/",
+      "restaurantName": "默野森林咖啡",
+      "region": "平鎮",
+      "badge": null,
+      "title": null,
+      "description": "桃園5間寵物友善早午餐推薦第二彈：默野森林咖啡走森林系裝潢，室內半戶外座位採光佳，波賽頓大早餐(2人份)一次滿足視覺味覺，咖啡豆自家烘焙；吾食Our Brunch在藝文特區、餐盤麵包跟飲料都可續，酪梨蝦蝦蛋可頌外皮酥脆；鹿途咖啡LU‧TU早午餐份量足，南洋風味巴東牛塔可飯及甜點可頌吐司都推薦；哇嘎噠WAGADA青埔一開幕就爆紅，兩層樓空間寬敞、貓掌元素可愛，紅茶可無限續；C6 Cafe喜遛咖啡在藝文特區巷弄，德國豬腳份量大、日式豬排漢堡好吃，飲品推薦青檸咖啡。",
+      "locations": [
+        {
+          "name": "默野森林咖啡",
+          "latitude": 24.926259,
+          "longitude": 121.255143
+        },
+        {
+          "name": "吾食 Our Brunch",
+          "latitude": 25.0112485,
+          "longitude": 121.2943675
+        },
+        {
+          "name": "鹿途咖啡 LU‧TU",
+          "latitude": 24.9470084,
+          "longitude": 121.2225124
+        },
+        {
+          "name": "哇嘎噠 WAGADA",
+          "latitude": 25.0043644,
+          "longitude": 121.2228574
+        },
+        {
+          "name": "C6 Cafe 喜遛咖啡",
+          "latitude": 25.018595,
+          "longitude": 121.296378
+        }
+      ]
+    },
+    {
+      "id": "146",
+      "sourceLink": "https://www.instagram.com/reel/DKRcCFHTe22/",
+      "restaurantName": "時常咖啡",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "中壢開幕即爆紅的英倫復古風咖啡廳，招牌旋轉門是熱門拍照點，餐點顏值高也好吃。招牌提拉米蘇濕潤帶淡酒香、份量大可2-3人分食(原味/開心果口味)，鹹食推薦手撕豬可頌(豬肉軟嫩配酸甜醬汁，附沙拉跟糖烤柳橙片)，主食推薦南洋干貝鮮蝦義大利麵(叻沙風味微辣，蝦已去殼配3顆大干貝)。",
+      "locations": [
+        {
+          "name": "時常咖啡",
+          "latitude": 24.9631281,
+          "longitude": 121.2552611
+        }
+      ]
+    },
+    {
+      "id": "147",
+      "sourceLink": "https://www.instagram.com/reel/DJs7EK4zD8Z/",
+      "restaurantName": "食霸重慶麻辣火鍋",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "中原夜市新開幕的重慶麻辣鍋，不收服務費、可帶外食，店裡沒有的菜也能自己帶食材來煮。推薦鴛鴦鍋(重慶牛油湯+豬骨湯)，牛油鍋用十幾種藥材炒製、鍋底鴨血豆腐入味；肉品推薦月見滑牛(裹蛋液更滑嫩)及限量薄切腰片(下鍋15秒即可)，豆皮蝦滑、小酥肉都推薦，蛋炒飯意外好吃，甜點紅糖粢劃下完美句點，生日用餐送肉盤。",
+      "locations": [
+        {
+          "name": "食霸重慶麻辣火鍋",
+          "latitude": 24.9530747,
+          "longitude": 121.2394914
+        }
+      ]
+    },
+    {
+      "id": "148",
+      "sourceLink": "https://www.instagram.com/reel/DJlMHjMTY1Q/",
+      "restaurantName": "茶瀚堂",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "隱身中原夜市巷子裡的創意手搖飲，有許多手工製作的創意配料。招牌厚芋泥奶霜是芋頭控必喝，新品芋泥肉鬆吐司(觀音奶茶+奶霜+肉鬆)意外好喝；米霜蕎奶酪加整顆杏仁奶酪、淋奶霜跟米香，層次豐富；151仙奶冰甜度剛好還吃得到手工仙草絲，水果風味推薦親親小屁桃跟桂花小蘋果。每月依星座推出限定飲品，也提供外送服務。",
+      "locations": [
+        {
+          "name": "茶瀚堂",
+          "latitude": 24.9542338,
+          "longitude": 121.2402135
+        }
+      ]
+    },
+    {
+      "id": "149",
+      "sourceLink": "https://www.instagram.com/reel/DJRVn8GT9JX/",
+      "restaurantName": "福神愛吃糖",
+      "region": "平鎮",
+      "badge": null,
+      "title": null,
+      "description": "平鎮的異國零食批發倉庫，多款日韓及東南亞零食、飲料、泡麵，常見超商零食價格也更便宜，調味料、日用品、節慶禮盒都有，幾乎每天上新品，可單買也可整箱購買，附免費停車場，每月會推出不同滿額抽獎活動。",
+      "locations": [
+        {
+          "name": "福神愛吃糖",
+          "latitude": 24.904408,
+          "longitude": 121.2349161
         }
       ]
     }
