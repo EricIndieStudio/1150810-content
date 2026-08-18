@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T10:00:00Z",
+  "updatedAt": "2026-08-18T11:00:00Z",
   "posts": [
     {
       "id": "43",
@@ -2949,6 +2949,70 @@
           "name": "千焠 黑毛和牛燒肉專門店",
           "latitude": 24.9588164,
           "longitude": 121.2206249
+        }
+      ]
+    },
+    {
+      "id": "173",
+      "sourceLink": "https://www.instagram.com/reel/DDcDU_xzq0W/",
+      "restaurantName": "好螺嗲螺螄粉 中華總店",
+      "region": "桃園",
+      "badge": null,
+      "title": null,
+      "description": "桃園火車站附近人氣宵夜螺螄粉專賣店，營業到凌晨兩點，湯頭可選正宗柳州味(酸辣重口)或台灣味(較清爽)，辣度配料皆可調整。每碗加入青菜、木耳、酸筍、豆角跟花生，米粉Q彈；主食推薦虎皮豬腳(先炸後滷外皮Q彈)，也可加點鳳爪跟麻辣鴨血。",
+      "locations": [
+        {
+          "name": "好螺嗲螺螄粉 中華總店",
+          "latitude": 24.9912313,
+          "longitude": 121.3122101
+        }
+      ]
+    },
+    {
+      "id": "174",
+      "sourceLink": "https://www.instagram.com/reel/DDMoOlbzR6q/",
+      "restaurantName": "Old vibe bistro & bar 老舊氛圍餐酒館",
+      "region": "蘆竹",
+      "badge": null,
+      "title": null,
+      "description": "桃園新開幕餐酒館，白天賣早午餐、晚上轉型餐酒館，調酒搭配獨特香氛物品提升品飲體驗，推薦帶糯米香氣vodka基底、灑滿花生粉的客家麻糬。餐點主食4樣都推薦，招牌鴨胸奶油燉飯吸附濃郁奶香、鴨胸熟度掌控佳，鮮蝦干貝奶油麵酸辣開胃，也有墨魚燉飯跟桂花烏龍燒肉麵。座位寬敞有氛圍感，生意好建議先訂位。",
+      "locations": [
+        {
+          "name": "Old vibe bistro & bar 老舊氛圍餐酒館",
+          "latitude": 25.0434823,
+          "longitude": 121.2944859
+        }
+      ]
+    },
+    {
+      "id": "175",
+      "sourceLink": "https://www.instagram.com/reel/DDHi8YYz6LO/",
+      "restaurantName": "美花鐵板燒",
+      "region": "桃園",
+      "badge": null,
+      "title": null,
+      "description": "桃園藝文特區文青風鐵板燒，用餐無限時，附近有收費停車場。肉類海鮮份量足、品質好，推薦熟度掌控軟嫩的沙朗牛，海鮮新鮮，大片午仔魚表面煎得恰恰、肉質細緻，蝦子鮮蚵也新鮮好吃。加點起司蛋熱熱吃牽絲，鐵板豆腐超下飯。套餐附兩樣青菜、湯品、白飯，內用紅茶喝到飽。",
+      "locations": [
+        {
+          "name": "美花鐵板燒",
+          "latitude": 25.0188749,
+          "longitude": 121.3019122
+        }
+      ]
+    },
+    {
+      "id": "176",
+      "sourceLink": "https://www.instagram.com/reel/DDCNUaNTy15/",
+      "restaurantName": "孫太太嚴選超市火鍋桃園店",
+      "region": "桃園",
+      "badge": null,
+      "title": null,
+      "description": "桃園超狂和牛帝王蟹火鍋吃到飽，五種價位($789-$3588)依海鮮肉品等級不同。高價位含多種日本A5和牛及新鮮日本生蠔、生食級大干貝、龍蝦、帝王蟹、松葉蟹，店員會示範海鮮煮法，現有推出櫻桃吃到飽及專人代烤燒烤服務。帝王蟹是全台最大5L尺寸、肉質飽滿，晚餐時段加$319還有生蠔吃到飽，自助吧蔬菜豐富，冰淇淋是明治跟哈根達斯。",
+      "locations": [
+        {
+          "name": "孫太太嚴選超市火鍋桃園店",
+          "latitude": 24.9919253,
+          "longitude": 121.2993444
         }
       ]
     }
