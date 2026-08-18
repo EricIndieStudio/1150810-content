@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T11:00:00Z",
+  "updatedAt": "2026-08-18T12:00:00Z",
   "posts": [
     {
       "id": "43",
@@ -3013,6 +3013,70 @@
           "name": "孫太太嚴選超市火鍋桃園店",
           "latitude": 24.9919253,
           "longitude": 121.2993444
+        }
+      ]
+    },
+    {
+      "id": "177",
+      "sourceLink": "https://www.instagram.com/reel/DB_WAESxDHh/",
+      "restaurantName": "京川家拉麵",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "龍岡新開幕拉麵攤車造型店，主打蒜味豚骨拉麵、細麵，湯頭鹹淡跟麵條硬度可客製化，內用可免費加麵一次，位置不算多、假日建議早點去。香辣大蒜豚骨拉麵湯頭濃郁配自製辣肉燥，叉燒三大片炙燒過香氣十足，加溏心蛋紫洋蔥蔥花海苔；鹽貝雞豚拉麵味道較清爽、雙湯頭香醇不膩口，叉燒配三片舒肥雞軟嫩不乾柴。",
+      "locations": [
+        {
+          "name": "京川家拉麵",
+          "latitude": 24.9337342,
+          "longitude": 121.2491362
+        }
+      ]
+    },
+    {
+      "id": "178",
+      "sourceLink": "https://www.instagram.com/reel/DBOei7-RV_u/",
+      "restaurantName": "Old vibe bistro & bar 老舊氛圍餐酒館",
+      "region": "蘆竹",
+      "badge": null,
+      "title": null,
+      "description": "蘆竹新開幕寶藏早午餐，白天賣早午餐、晚上變身餐酒館，開放式廚房可看料理過程，座位寬敞裝潢美。招牌法式炒蛋鮮蝦可頌可吃到酪梨鮮蝦可頌、炒蛋、優格杯跟太妃糖腰果，可頌酥脆搭配層次豐富，炒蛋滑嫩；巴西里乾酪海鮮早午餐一次吃到干貝鮮蝦透抽三種海鮮，法式長棍沾海鮮橄欖油很香。飲品推薦檸檬生乳酪桑格莉亞。",
+      "locations": [
+        {
+          "name": "Old vibe bistro & bar 老舊氛圍餐酒館",
+          "latitude": 25.0434823,
+          "longitude": 121.2944859
+        }
+      ]
+    },
+    {
+      "id": "179",
+      "sourceLink": "https://www.instagram.com/reel/DA8ab_Dx4aa/",
+      "restaurantName": "双囍堂",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "中壢夜市隱藏版黑糖鮮奶，食材真材實料，黑糖、珍珠、地瓜(台農57號)、芋頭(大甲芋頭)、紅豆餡(萬丹紅豆)皆當天現做，芋頭地瓜綿密、甜度剛好，可試吃再單買。飲品都用純鮮奶製作不加水，招牌黑糖鮮奶鋪奶蓋跟黑糖粉、炙燒後香氣濃郁，配料可依喜好選擇(珍珠/地瓜/芋頭皆推薦)。",
+      "locations": [
+        {
+          "name": "双囍堂",
+          "latitude": 24.9608738,
+          "longitude": 121.2150915
+        }
+      ]
+    },
+    {
+      "id": "180",
+      "sourceLink": "https://www.instagram.com/reel/DAsvhs8RgFI/",
+      "restaurantName": "AMICO 餐酒館",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "中原大學附近人氣餐酒館，主打50多種酒類無限暢飲(生啤/調酒/威士忌/shot/無酒精飲品)，價格女生$599、男生$799。餐點也有水準，第一次去推薦黑炸雞、脆皮肥腸、炸五花肉，主食推薦揚州炒飯跟起司薄餅，湯品推薦魷魚螺肉蒜。",
+      "locations": [
+        {
+          "name": "AMICO 餐酒館",
+          "latitude": 24.9566923,
+          "longitude": 121.2383748
         }
       ]
     }
