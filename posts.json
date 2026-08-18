@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T07:00:00Z",
+  "updatedAt": "2026-08-18T08:00:00Z",
   "posts": [
     {
       "id": "43",
@@ -2546,6 +2546,134 @@
           "name": "福神愛吃糖",
           "latitude": 24.904408,
           "longitude": 121.2349161
+        }
+      ]
+    },
+    {
+      "id": "150",
+      "sourceLink": "https://www.instagram.com/reel/DJJap8bzgFl/",
+      "restaurantName": "Mr. May 義式百匯 桃園中正店",
+      "region": "桃園",
+      "badge": null,
+      "title": null,
+      "description": "桃園義式吃到飽最低$468起，披薩18種口味任選，炸物、熱炒、義大利麵、燉飯都吃到飽，補餐速度快且常變化菜色。主餐加購最低$60，推薦德國豬腳(+$150)搭酸菜或黃芥末，另有冷盤海鮮跟沙拉區，飲料選擇多、啤酒也喝到飽，飯後整櫃甜點及十幾種水果冰淇淋，附免費停車場，適合家庭聚餐，中壢也有分店但供餐模式不同。",
+      "locations": [
+        {
+          "name": "Mr. May 義式百匯 桃園中正店",
+          "latitude": 25.0075368,
+          "longitude": 121.3025036
+        }
+      ]
+    },
+    {
+      "id": "151",
+      "sourceLink": "https://www.instagram.com/reel/DI1GBI7z88l/",
+      "restaurantName": "楚記福建炒麵-中原總店",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "中原夜市必吃火焰炒麵，大火快炒鍋氣十足。口味分五花豬跟海陸兩種，麵體是細麵條、Q彈有嚼勁，加入大量蔬菜淋上獨門醬汁大火爆炒，靈魂是濃郁鍋氣香。",
+      "locations": [
+        {
+          "name": "楚記福建炒麵-中原總店",
+          "latitude": 24.955319,
+          "longitude": 121.240492
+        }
+      ]
+    },
+    {
+      "id": "152",
+      "sourceLink": "https://www.instagram.com/reel/DIyhe5HzyEe/",
+      "restaurantName": "馬柒韓式料理",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "中壢高CP值平價韓式料理，內用小菜跟麥茶無限續、不收服務費，韓式小菜共五種每日隨機出三種、皆店家自製醃漬。餐點分套餐跟單點，銅板烤肉套餐$890份量十足，附滿滿蔬菜跟兩盤肉品(肉先醃製過軟嫩入味)，套餐鍋物可選豆腐鍋附白飯，石鍋拌飯吃得到香脆鍋巴。用餐時間常客滿，建議先訂位。",
+      "locations": [
+        {
+          "name": "馬柒韓式料理",
+          "latitude": 24.9672949,
+          "longitude": 121.2635648
+        }
+      ]
+    },
+    {
+      "id": "153",
+      "sourceLink": "https://www.instagram.com/reel/DIjE6MnzCBX/",
+      "restaurantName": "老吳商行 青埔店",
+      "region": "大園",
+      "badge": null,
+      "title": null,
+      "description": "桃園藝文特區人氣沙茶火鍋來青埔開分店，$369即有豐富蔬菜自助吧(兩個冰櫃)及多款飲料霜淇淋吃到飽，熟食區牛肉咖哩、麻辣鴨血、炒麵、燒賣等也吃到飽，加購紅燒肉飯(滿滿肉配半熟蛋)只要$19超值。雙人套餐可吃到五種肉品，手炒沙茶沾什麼都好吃，湯底推薦蒜頭蛤蜊，甜點芝麻糊配麻糬作結。店內空間寬敞舒適。",
+      "locations": [
+        {
+          "name": "老吳商行 青埔店",
+          "latitude": 25.0182533,
+          "longitude": 121.2131745
+        }
+      ]
+    },
+    {
+      "id": "154",
+      "sourceLink": "https://www.instagram.com/reel/DId62pMzuNS/",
+      "restaurantName": "牛山‧牛肉麵‧燒肉飯",
+      "region": "桃園",
+      "badge": null,
+      "title": null,
+      "description": "桃園開幕即爆紅的牛肉麵店，無時無刻都在排隊。招牌清燉牛肉麵一次吃到牛筋、牛腱、牛尾、牛肋排，麵條粗Q彈，湯頭用多種蔬果跟牛骨熬煮濃郁順口；招牌燒肉飯用龍眼木炭烤菲力牛、軟嫩碳香十足，可配生菜洋蔥蒜片半熟蛋。小菜大推酸辣開胃的果醋魚皮，甜點手工布丁香濃綿密。",
+      "locations": [
+        {
+          "name": "牛山‧牛肉麵‧燒肉飯",
+          "latitude": 25.0111413,
+          "longitude": 121.2943718
+        }
+      ]
+    },
+    {
+      "id": "155",
+      "sourceLink": "https://www.instagram.com/reel/DITat1WTL0C/",
+      "restaurantName": "Tiger 灶咖",
+      "region": "桃園",
+      "badge": null,
+      "title": null,
+      "description": "桃園隱身民宅內的低調早午餐，價格平價不收服務費，餐點有早午餐、義大利麵、燉飯、定食、甜點，座位不多建議提前預約。招牌青醬鴨胸燉飯米心帶微硬口感配濃郁青醬；爐烤豬梅花早午餐份量豐富，淋店家特製酸奶醬；雞腿排定食附濃湯跟三樣小菜，雞腿排搭配泰式香檸醬。也提供小型客製化包場跟外燴服務。",
+      "locations": [
+        {
+          "name": "Tiger 灶咖",
+          "latitude": 24.999544,
+          "longitude": 121.296128
+        }
+      ]
+    },
+    {
+      "id": "156",
+      "sourceLink": "https://www.instagram.com/reel/DIRM9MCz6p2/",
+      "restaurantName": "大池 Front 景觀 BISTRO&Cafe",
+      "region": "龍潭",
+      "badge": null,
+      "title": null,
+      "description": "龍潭大池旁隱藏版景觀餐酒館，大面落地窗可欣賞吊橋燈光美景，建議傍晚前往、可坐到晚上看景色變化，店內有飛鏢機跟大螢幕會播球賽。調酒可依喜好客製，推薦威士忌加奶酒配鮮奶油跟烤棉花糖的天使&惡魔，或以琴酒為基底加檸檬覆盆子的蘑菇；餐點種類多元，義大利麵、燉飯、披薩、炸物、烤物、牛肉麵都有，甜點推薦大塊濃郁的巧克力蛋糕。適合小酌約會。",
+      "locations": [
+        {
+          "name": "大池 Front 景觀 BISTRO&Cafe",
+          "latitude": 24.8625724,
+          "longitude": 121.208767
+        }
+      ]
+    },
+    {
+      "id": "157",
+      "sourceLink": "https://www.instagram.com/reel/DIOccY-Tl1a/",
+      "restaurantName": "墨竹亭 燃麵本家 中壢九和店",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "中壢威尼斯旁的平價文青麵店，內用外送皆宜，小菜品項豐富、大推紅油口水雞跟米血，內用海帶絲無限供應。招牌鮮蝦炒手燃麵香辣夠味、麵條Q彈吸附醬汁，鮮蝦炒手扎實飽滿；冰花煎餃底部煎至金黃酥脆、咬下多汁；皮蛋秘醬拌麵加入肉醬肉絲跟皮蛋，拌勻後很涮嘴。週末生意好，建議早點去。",
+      "locations": [
+        {
+          "name": "墨竹亭 燃麵本家 中壢九和店",
+          "latitude": 24.9615599,
+          "longitude": 121.224466
         }
       ]
     }
