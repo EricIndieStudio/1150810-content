@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T08:00:00Z",
+  "updatedAt": "2026-08-18T09:00:00Z",
   "posts": [
     {
       "id": "43",
@@ -2674,6 +2674,153 @@
           "name": "墨竹亭 燃麵本家 中壢九和店",
           "latitude": 24.9615599,
           "longitude": 121.224466
+        }
+      ]
+    },
+    {
+      "id": "158",
+      "sourceLink": "https://www.instagram.com/reel/DH8LNtMzR84/",
+      "restaurantName": "日日朝食 (平鎮店)",
+      "region": "平鎮",
+      "badge": null,
+      "title": null,
+      "description": "平鎮高人氣早午餐，平假日都一位難求，價格不貴不收服務費。招牌早午餐盤(鮭魚或鴨胸)配美式炒蛋、炒菇、燕麥優格、沙拉跟麵包，份量十足；不吃生菜可選烤時蔬配金黃酥脆雞腿排，松露控必加松露野菇濃湯(料多濃郁)，套餐附紅茶可換購氣泡飲。建議先訂位。",
+      "locations": [
+        {
+          "name": "日日朝食 (平鎮店)",
+          "latitude": 24.9403407,
+          "longitude": 121.2121617
+        }
+      ]
+    },
+    {
+      "id": "159",
+      "sourceLink": "https://www.instagram.com/reel/DHqdiEmzphW/",
+      "restaurantName": "光川製麵 (中壢店)",
+      "region": "中壢",
+      "badge": null,
+      "title": null,
+      "description": "中壢也吃得到道地日式烏龍麵，老闆赴日拜師學藝，烏龍麵當天現切現煮、口感Q彈。推薦炸蝦天婦羅沾麵(烏龍冷麵配醬汁清爽，天婦羅有兩隻炸蝦、香菇、青椒、地瓜)，牛肉拌烏龍麵可加點溫泉蛋更滑順好吃，炸物小菜甜點也有水準。桃園目前有4間分店。",
+      "locations": [
+        {
+          "name": "光川製麵 中壢店",
+          "latitude": 24.9564559,
+          "longitude": 121.225114
+        },
+        {
+          "name": "光川製麵 桃園店",
+          "latitude": 24.9875977,
+          "longitude": 121.2881576
+        },
+        {
+          "name": "光川製麵 蘆竹店",
+          "latitude": 25.0588545,
+          "longitude": 121.2953241
+        },
+        {
+          "name": "光川製麵 林口店",
+          "latitude": 25.0769333,
+          "longitude": 121.3728179
+        }
+      ]
+    },
+    {
+      "id": "160",
+      "sourceLink": "https://www.instagram.com/reel/DHdT4_1zFwW/",
+      "restaurantName": "大瑋叔叔手作大福",
+      "region": "平鎮",
+      "badge": null,
+      "title": null,
+      "description": "平鎮草莓大福人氣店，多年老字號，中壢後火車站步行約十分鐘可達，目前只能外帶不能內用。大福當天現做、真材實料顆粒大，麻糬皮入口即化不黏牙，內餡包大顆多汁草莓，經典口味可可乳酪，新推出藍莓乳酪酸甜好吃，也有包五顆草莓的巨無霸草莓大福，適合當生日蛋糕。",
+      "locations": [
+        {
+          "name": "大瑋叔叔手作大福",
+          "latitude": 24.9499505,
+          "longitude": 121.222174
+        }
+      ]
+    },
+    {
+      "id": "161",
+      "sourceLink": "https://www.instagram.com/reel/DHI6lx9TyHv/",
+      "restaurantName": "海人直達",
+      "region": "龜山",
+      "badge": null,
+      "title": null,
+      "description": "桃園平價海鮮居酒屋，海鮮當天從漁港直送、價格划算，還吃得到平時不常見的魚類。現殺生魚片不容錯過，推薦竹莢魚新鮮好吃，生蠔大顆肥美淋特製綠魔鬼醬，櫻花蝦刺身跟葡萄蝦也鮮甜；干貝馬卡龍炙燒後加海膽鮭魚卵很滿足，炸物推薦山藥薯條配松露醬，烤物手捲熟食也都有水準。",
+      "locations": [
+        {
+          "name": "海人直達",
+          "latitude": 25.0537579,
+          "longitude": 121.3670281
+        }
+      ]
+    },
+    {
+      "id": "162",
+      "sourceLink": "https://www.instagram.com/reel/DHGVkdnzDny/",
+      "restaurantName": "肉球尼尼 Meatball Nini",
+      "region": "桃園",
+      "badge": null,
+      "title": null,
+      "description": "桃園5間早午餐推薦：肉球尼尼Meatball Nini在藝文特區，餐點選擇豐富(早午餐/燉飯/義大利麵/漢堡/帕尼尼/沙拉/甜點)，帕尼尼外皮酥脆、花生牛肉堡純牛肉手工製作厚實多汁；mummum滿²在元智大學附近，早午餐拼盤跟米食類都推薦，生意好建議先訂位；日日朝食用料豐富、自製芋泥球不會太甜、黑松露野菇濃湯料多；Couple好食好物是巷弄裡的溫馨小店，自然醒餐盤可換脆薯；HAKKAFE'哈嘎廢裝潢有特色、餐點結合客家元素，寵物友善。",
+      "locations": [
+        {
+          "name": "肉球尼尼 Meatball Nini",
+          "latitude": 25.0188358,
+          "longitude": 121.302176
+        },
+        {
+          "name": "mummum 滿²",
+          "latitude": 24.9670099,
+          "longitude": 121.262764
+        },
+        {
+          "name": "日日朝食",
+          "latitude": 24.9403407,
+          "longitude": 121.2121617
+        },
+        {
+          "name": "Couple 好食。好物",
+          "latitude": 24.9745709,
+          "longitude": 121.256854
+        },
+        {
+          "name": "HAKKAFE'哈嘎廢",
+          "latitude": 24.8965345,
+          "longitude": 121.2258406
+        }
+      ]
+    },
+    {
+      "id": "163",
+      "sourceLink": "https://www.instagram.com/reel/DGvIUGST8P1/",
+      "restaurantName": "C6 Cafe 喜遛咖啡",
+      "region": "桃園",
+      "badge": null,
+      "title": null,
+      "description": "藏身桃園藝文特區民宅內的早午餐，滿滿綠色植栽、座位寬敞舒適，回訪多次餐點皆無雷，假日常一位難求建議先訂位。肉食主義必點超大份德國豬腳(外脆內嫩)，日式豬排漢堡厚實多汁附沙拉脆薯，升級套餐附手作黑糖穀優格跟麵包四選一(五穀軟法/雜糧葡萄餐包/花生可頌/織女吐司)，招牌青檸咖啡附檸檬片跟咖啡糖粒，甜點推薦濃郁芝麻千層。",
+      "locations": [
+        {
+          "name": "C6 Cafe 喜遛咖啡",
+          "latitude": 25.018595,
+          "longitude": 121.296378
+        }
+      ]
+    },
+    {
+      "id": "164",
+      "sourceLink": "https://www.instagram.com/reel/DGkAj17zuP2/",
+      "restaurantName": "鰻天下",
+      "region": "大園",
+      "badge": null,
+      "title": null,
+      "description": "竹圍漁港旁人氣巨大鰻魚飯，鰻魚當天現殺新鮮、手工拔刺，店家自有活鰻池，用餐環境寬敞、機器人送餐，生意好週末建議先訂位。每日限量大尾鰻盛份量浮誇，白飯淋鰻魚汁配整尾蒲燒鰻魚、鹹甜下飯，附多款小菜需多人分食；太極鰻魚飯一次吃到蒲燒跟白燒兩種口味，鰻魚天婦羅麵衣酥脆魚肉厚實，內用味噌湯無限喝到飽，也有定食、炒飯、烏龍麵等選擇。",
+      "locations": [
+        {
+          "name": "鰻天下",
+          "latitude": 25.114293,
+          "longitude": 121.243427
         }
       ]
     }
